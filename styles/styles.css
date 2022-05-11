@@ -52,7 +52,7 @@ body
     border-radius: 10px;
     background-color: hsla(178, 100%, 50%, 0.5);
     position: absolute;
-    background-image: url(/images/icon-view.svg);
+    background-image: url(../images/icon-view.svg);
     background-repeat: no-repeat;
     background-position: center;
 
@@ -100,7 +100,7 @@ body
 {
     color:hsl(178, 100%, 50%);
     margin-top: 25px;
-    background-image: url(/images/icon-ethereum.svg);
+    background-image: url(../images/icon-ethereum.svg);
     background-repeat: no-repeat;
     padding-left: 20px;
 }
@@ -115,7 +115,7 @@ body
 {
     color:hsl(215, 51%, 70%);
     margin-top: 25px;
-    background-image: url(/images/icon-clock.svg);
+    background-image: url(../images/icon-clock.svg);
     background-repeat: no-repeat;
     padding-left: 20px;
     position: relative;

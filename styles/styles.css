@@ -52,7 +52,11 @@ body
     border-radius: 10px;
     background-color: hsla(178, 100%, 50%, 0.5);
     position: absolute;
+<<<<<<< HEAD
     background-image: url(../images/icon-view.svg);
+=======
+    background-image: url(./images/icon-view.svg);
+>>>>>>> refs/remotes/origin/main
     background-repeat: no-repeat;
     background-position: center;
 
@@ -100,7 +104,11 @@ body
 {
     color:hsl(178, 100%, 50%);
     margin-top: 25px;
+<<<<<<< HEAD
     background-image: url(../images/icon-ethereum.svg);
+=======
+    background-image: url(./images/icon-ethereum.svg);
+>>>>>>> refs/remotes/origin/main
     background-repeat: no-repeat;
     padding-left: 20px;
 }
@@ -115,7 +123,11 @@ body
 {
     color:hsl(215, 51%, 70%);
     margin-top: 25px;
+<<<<<<< HEAD
     background-image: url(../images/icon-clock.svg);
+=======
+    background-image: url(./images/icon-clock.svg);
+>>>>>>> refs/remotes/origin/main
     background-repeat: no-repeat;
     padding-left: 20px;
     position: relative;
